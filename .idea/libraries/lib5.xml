@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/jsontoken.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/httpcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/com.liferay.io.delta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/jodd-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/portal-compat-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/jodd-bean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/sync-web-service.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/log4j-extras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/jodd-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/oauth-portlet-service.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/sync-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/gson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/google-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/joda-time.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/WEB-INF/lib/log4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

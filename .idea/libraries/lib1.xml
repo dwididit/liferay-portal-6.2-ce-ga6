@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/log4j-extras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/private-messaging-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/util-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/so-announcements-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/so-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/notifications-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/notifications-portlet-service.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/microblogs-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/jstl-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/so-configurations-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/portal-compat-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/WEB-INF/lib/contacts-shared.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

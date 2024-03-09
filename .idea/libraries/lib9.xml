@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/json-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/portal-compat-shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/log4j-extras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/util-taglib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/util-bridges.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/jabsorb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/kaleo-web-service.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/util-slf4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/WEB-INF/lib/util-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

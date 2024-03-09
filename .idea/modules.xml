@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/calendar-portlet/calendar-portlet.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/calendar-portlet/calendar-portlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/kaleo-web.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/kaleo-web/kaleo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/liferay-portal-6.2-ce-ga6.iml" filepath="$PROJECT_DIR$/.idea/liferay-portal-6.2-ce-ga6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/marketplace-portlet/marketplace-portlet.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/marketplace-portlet/marketplace-portlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/notifications-portlet.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/notifications-portlet/notifications-portlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/opensocial-portlet/opensocial-portlet.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/opensocial-portlet/opensocial-portlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/resources-importer-web/resources-importer-web.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/resources-importer-web/resources-importer-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/sync-web.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/sync-web/sync-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-7.0.62/webapps/web-form-portlet/web-form-portlet.iml" filepath="$PROJECT_DIR$/tomcat-7.0.62/webapps/web-form-portlet/web-form-portlet.iml" />
+    </modules>
+  </component>
+</project>
